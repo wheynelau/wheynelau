@@ -39,7 +39,7 @@ forget how it works a few months later I know it's bad.😂)
 - Sometimes the best ways to learn are through mistakes: Whether it's syntax errors or in life. 
 - Always aim to be better than yesterday, everyday. Consistency and hard work pays off.
 
-<h3 align "center"> What I do in my free time </h3>
+<h3 align "center"> ⌚️ What I do in my free time ⌚️ </h3>
 
 - Cooking
 - Gym
