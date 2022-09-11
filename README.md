@@ -2,7 +2,7 @@
 
 <h3 align "center"> 🎁 Present 🎁 </h3>
 
-- 🧒 I'm in my mid twenties but I feel like I'm in my thirties. 😅
+- 🧒 I'm in my mid twenties.
 - 💼 I'm currently working full time in the engineering sector.
 - 📚 I'm also taking my Bachelor's in Mathematics with a Minor in Data Sciences.
 - 🇸🇬 I live on the little red dot! 
