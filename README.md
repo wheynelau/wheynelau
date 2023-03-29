@@ -3,7 +3,7 @@
 <h3 align "center"> 🎁 Present 🎁 </h3>
 
 - 🧒 I'm in my mid twenties.
-- 💼 I'm currently working full time in the engineering sector.
+- 💼 I'm working as a junior AI engineer now!
 - 📚 I'm also taking my Bachelor's in Mathematics with a Minor in Data Sciences.
 - 🇸🇬 I live on the little red dot! 
 
