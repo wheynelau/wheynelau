@@ -1,19 +1,8 @@
-<h1 align="center"> Hi 👋, I'm Wayne </h1>
+<h1 align="center"> Hi there👋, I'm Wayne </h1>
 
-<h3 align "center"> 🎁 Present 🎁 </h3>
+I'm an aspiring AI engineer with a passion for AI/ML, predictive analytics, automation, and algorithms. I'm also interested in quant trading and have been working on various personal projects in this field. I am currently taking a bachelor's in Mathematics and I'm projected to graduate the end of this year. 
 
-- 🧒 I'm in my mid twenties.
-- 💼 I'm working as a junior AI engineer now!
-- 📚 I'm also taking my Bachelor's in Mathematics with a Minor in Data Sciences.
-- 🇸🇬 I live on the little red dot! 
-
-<h3 align "center"> 👀 Interests 👀 </h3> 
-
-- I’m interested in AI/ML, predictive analytics, automation, algorithms. 
-- I have also recently tried to pick up quant trading. 
-- I have been learning and practicing python for about close to two years now. 
-
-<h3 align "center"> ✍️ Personal projects ✍️ </h3>
+<h3 align "center"> Here are some of personal projects </h3>
 
 - Browser automation with selenium
 - Back testing trading stragies
@@ -21,23 +10,25 @@
 - Data analytics, machine learning
 - Web scraping
 
-<h3 align "center"> 🥅 Goals in this field 🥅 </h3>
+<h3 align "center"> Goals for 2023 </h3>
 
 - Work on DevOps
 - Develop and deploy AI solutions
 - Git gud
 
-<h3 align "center"> 🧠 Mindset 🧠 </h3>
+<h3 align "center"> Mindset </h3>
 
 - Sometimes the best ways to learn are through mistakes: Whether it's syntax errors or in life. 
 - Always aim to be better than yesterday, everyday. Consistency and hard work pays off.
 
-<h3 align "center"> ⌚️ What I do in my free time ⌚️ </h3>
+<h3 align "center"> Hobbies </h3>
 
 - Cooking
 - Gym
 - Cycling
 - Reading articles
+
+Feel free to reach out to me if you have any questions or if you'd like to collaborate on a project. Thanks for visiting my profile!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
