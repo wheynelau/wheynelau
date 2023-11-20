@@ -5,7 +5,7 @@ I'm an aspiring AI engineer with a passion for AI/ML, predictive analytics, auto
 <h3 align "center"> Here are some of personal projects </h3>
 
 - Browser automation with selenium
-- Back testing trading stragies
+- Back-testing trading strategies
 - Deploying strategies on various crypto exchanges
 - Data analytics, machine learning
 - Web scraping
@@ -19,7 +19,7 @@ I'm an aspiring AI engineer with a passion for AI/ML, predictive analytics, auto
 <h3 align "center"> Mindset </h3>
 
 - Sometimes the best ways to learn are through mistakes: Whether it's syntax errors or in life. 
-- Always aim to be better than yesterday, everyday. Consistency and hard work pays off.
+- Always aim to be better than yesterday, every day. Consistency and hard work pays off.
 
 <h3 align "center"> Hobbies </h3>
 
