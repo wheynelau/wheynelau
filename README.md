@@ -10,7 +10,7 @@ I'm an aspiring AI engineer with a passion for AI/ML, predictive analytics, auto
 - Data analytics, machine learning
 - Web scraping
 
-<h3 align "center"> Goals for 2023 </h3>
+<h3 align "center"> Goals for 2024 </h3>
 
 - Improve DevOps
 - Dive deeper into the fundamentals of ML, such as computer architecture and mathematics.
