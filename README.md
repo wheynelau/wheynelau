@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there👋, I'm Wayne </h1>
 
-I'm an aspiring AI engineer with a passion for AI/ML, predictive analytics, automation, and algorithms. I'm also interested in quant trading and have been working on various personal projects in this field. I am currently taking a bachelor's in Mathematics and I'm projected to graduate the end of this year. 
+I'm an aspiring AI engineer with a passion for AI/ML, predictive analytics, automation, and algorithms. I don't edit this often so if you'd like a more updated profile do refer to my website. Thank you!
 
 <h3 align "center"> Here are some of personal projects </h3>
 
@@ -12,9 +12,9 @@ I'm an aspiring AI engineer with a passion for AI/ML, predictive analytics, auto
 
 <h3 align "center"> Goals for 2023 </h3>
 
-- Work on DevOps
-- Develop and deploy AI solutions
-- Git gud
+- Improve DevOps
+- Dive deeper into the fundamentals of ML, such as computer architecture and mathematics.
+- Learn rust (hopefully)
 
 <h3 align "center"> Mindset </h3>
 
