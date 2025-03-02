@@ -9,7 +9,7 @@ I'm an aspiring AI engineer with a passion for AI/ML, predictive analytics, auto
 - Web scraping
 - Tiny rust projects
 
-<h3 align "center"> Goals for 2024 </h3>
+<h3 align "center"> Goals for 2025 </h3>
 
 - Just keep rustling
 
