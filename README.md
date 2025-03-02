@@ -11,7 +11,7 @@ I'm an aspiring AI engineer with a passion for AI/ML, predictive analytics, auto
 
 <h3 align "center"> Goals for 2025 </h3>
 
-- Just keep rustling
+- Make rust 50% of my code
 
 <h3 align "center"> Mindset </h3>
 
