@@ -5,16 +5,13 @@ I'm an aspiring AI engineer with a passion for AI/ML, predictive analytics, auto
 <h3 align "center"> Here are some of personal projects </h3>
 
 - Browser automation with selenium
-- Back-testing trading strategies
-- Deploying strategies on various crypto exchanges
 - Data analytics, machine learning
 - Web scraping
+- Tiny rust projects
 
 <h3 align "center"> Goals for 2024 </h3>
 
-- Improve DevOps
-- Dive deeper into the fundamentals of ML, such as computer architecture and mathematics.
-- Learn rust (hopefully)
+- Just keep rustling
 
 <h3 align "center"> Mindset </h3>
 
