@@ -1,6 +1,6 @@
-<h1 align="center"> Hi there👋, I'm Wayne </h1>
+<h1 align="center"> Wayne </h1>
 
-I'm an aspiring AI engineer with a passion for AI/ML, predictive analytics, automation, and algorithms. I don't edit this often so if you'd like a more updated profile do refer to my website. Thank you!
+I'm an AI engineer with a passion for AI/ML, predictive analytics, automation, and algorithms. I don't edit this often so if you'd like a more updated profile do refer to my website. Thank you!
 
 <h3 align "center"> Here are some of personal projects </h3>
 
