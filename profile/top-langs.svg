@@ -1,8 +1,8 @@
 
       <svg
         width="300"
-        height="285"
-        viewBox="0 0 300 285"
+        height="165"
+        viewBox="0 0 300 165"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -149,102 +149,107 @@
         >
           
     <svg data-testid="lang-items" x="25">
-      <g transform="translate(0, 0)">
-      <g class="stagger" style="animation-delay: 450ms">
-        <text data-testid="lang-name" x="2" y="15" class="lang-name">Jupyter Notebook</text>
-        <text x="215" y="34" class="lang-name" data-testid="lang-name">89.9%</text>
-        
-    <svg width="205" x="0" y="25">
-      <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"></rect>
-      <svg data-testid="lang-progress" width="89.87%">
-        <rect
-            height="8"
-            fill="#DA5B0B"
-            rx="5" ry="5" x="0" y="0"
-            class="lang-progress"
-            style="animation-delay: 750ms;"
-        />
-      </svg>
-    </svg>
+      
   
-      </g>
-    </g><g transform="translate(0, 40)">
-      <g class="stagger" style="animation-delay: 600ms">
-        <text data-testid="lang-name" x="2" y="15" class="lang-name">Python</text>
-        <text x="215" y="34" class="lang-name" data-testid="lang-name">4.8%</text>
-        
-    <svg width="205" x="0" y="25">
-      <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"></rect>
-      <svg data-testid="lang-progress" width="4.81%">
+      <mask id="rect-mask">
+        <rect x="0" y="0" width="250" height="8" fill="white" rx="5"/>
+      </mask>
+      
         <rect
-            height="8"
-            fill="#3572A5"
-            rx="5" ry="5" x="0" y="0"
-            class="lang-progress"
-            style="animation-delay: 900ms;"
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="0.00"
+          y="0"
+          width="224.37"
+          height="8"
+          fill="#DA5B0B"
         />
-      </svg>
-    </svg>
-  
-      </g>
-    </g><g transform="translate(0, 80)">
-      <g class="stagger" style="animation-delay: 750ms">
-        <text data-testid="lang-name" x="2" y="15" class="lang-name">Rust</text>
-        <text x="215" y="34" class="lang-name" data-testid="lang-name">3.7%</text>
-        
-    <svg width="205" x="0" y="25">
-      <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"></rect>
-      <svg data-testid="lang-progress" width="3.75%">
+      
         <rect
-            height="8"
-            fill="#dea584"
-            rx="5" ry="5" x="0" y="0"
-            class="lang-progress"
-            style="animation-delay: 1050ms;"
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="224.37"
+          y="0"
+          width="12.00"
+          height="8"
+          fill="#3572A5"
         />
-      </svg>
-    </svg>
-  
-      </g>
-    </g><g transform="translate(0, 120)">
-      <g class="stagger" style="animation-delay: 900ms">
-        <text data-testid="lang-name" x="2" y="15" class="lang-name">HTML</text>
-        <text x="215" y="34" class="lang-name" data-testid="lang-name">1.0%</text>
-        
-    <svg width="205" x="0" y="25">
-      <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"></rect>
-      <svg data-testid="lang-progress" width="2.00%">
+      
         <rect
-            height="8"
-            fill="#e34c26"
-            rx="5" ry="5" x="0" y="0"
-            class="lang-progress"
-            style="animation-delay: 1200ms;"
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="236.37"
+          y="0"
+          width="19.36"
+          height="8"
+          fill="#dea584"
         />
-      </svg>
-    </svg>
-  
-      </g>
-    </g><g transform="translate(0, 160)">
-      <g class="stagger" style="animation-delay: 1050ms">
-        <text data-testid="lang-name" x="2" y="15" class="lang-name">Go</text>
-        <text x="215" y="34" class="lang-name" data-testid="lang-name">0.6%</text>
-        
-    <svg width="205" x="0" y="25">
-      <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"></rect>
-      <svg data-testid="lang-progress" width="2.00%">
+      
         <rect
-            height="8"
-            fill="#00ADD8"
-            rx="5" ry="5" x="0" y="0"
-            class="lang-progress"
-            style="animation-delay: 1350ms;"
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="245.73"
+          y="0"
+          width="12.50"
+          height="8"
+          fill="#e34c26"
         />
-      </svg>
-    </svg>
-  
-      </g>
+      
+        <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="248.24"
+          y="0"
+          width="11.43"
+          height="8"
+          fill="#00ADD8"
+        />
+      
+        <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="249.67"
+          y="0"
+          width="10.33"
+          height="8"
+          fill="#89e051"
+        />
+      
+    
+  <g transform="translate(0, 25)">
+    <g transform="translate(0, 0)"><g transform="translate(0, 0)">
+    <g class="stagger" style="animation-delay: 450ms">
+      <circle cx="5" cy="6" r="5" fill="#DA5B0B" />
+      <text data-testid="lang-name" x="15" y="10" class="lang-name">Jupyter Notebook 89.75%</text>
     </g>
+  </g><g transform="translate(0, 25)">
+    <g class="stagger" style="animation-delay: 600ms">
+      <circle cx="5" cy="6" r="5" fill="#3572A5" />
+      <text data-testid="lang-name" x="15" y="10" class="lang-name">Python 4.80%</text>
+    </g>
+  </g><g transform="translate(0, 50)">
+    <g class="stagger" style="animation-delay: 750ms">
+      <circle cx="5" cy="6" r="5" fill="#dea584" />
+      <text data-testid="lang-name" x="15" y="10" class="lang-name">Rust 3.74%</text>
+    </g>
+  </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
+    <g class="stagger" style="animation-delay: 900ms">
+      <circle cx="5" cy="6" r="5" fill="#e34c26" />
+      <text data-testid="lang-name" x="15" y="10" class="lang-name">HTML 1.00%</text>
+    </g>
+  </g><g transform="translate(0, 25)">
+    <g class="stagger" style="animation-delay: 1050ms">
+      <circle cx="5" cy="6" r="5" fill="#00ADD8" />
+      <text data-testid="lang-name" x="15" y="10" class="lang-name">Go 0.57%</text>
+    </g>
+  </g><g transform="translate(0, 50)">
+    <g class="stagger" style="animation-delay: 1200ms">
+      <circle cx="5" cy="6" r="5" fill="#89e051" />
+      <text data-testid="lang-name" x="15" y="10" class="lang-name">Shell 0.13%</text>
+    </g>
+  </g></g>
+  </g>
+  
     </svg>
   
         </g>
