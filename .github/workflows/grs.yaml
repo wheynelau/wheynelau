@@ -4,6 +4,7 @@ on:
   schedule:
     - cron: "0 0 * * *"  
   workflow_dispatch:
+  push:
 
 jobs:
   publish:
@@ -24,13 +25,7 @@ jobs:
         uses: soulteary/github-readme-stats-action@v1.0.0
         with:
           card: top-langs
-          options: >
-            {
-              "username": "${{ github.repository_owner }}",
-              "layout": "compact",
-              "langs_count": 6,
-              "hide": ["Jupyter Notebook"]
-            }
+          options: 'username=${{ github.repository_owner }}&layout=compact&hide=Jupyter+Notebook'
           path: profile/top-langs.svg
           token: ${{ secrets.STATS_TOKEN }}
 
